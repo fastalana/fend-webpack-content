@@ -2,9 +2,11 @@
 
 The goal of this repo is be an example of a basic but functional app built on Express and Webpack.
 
+**ALL CHANGES I MADE MANUALLY ARE ON THIS BRANCH WITH DESCRIPTIONS OF THE STEPS INCLUDED IN EACH COMMIT!!!**
+
 If you are just starting this process, start from branch 0-initial-setup. Otherwise, switch to the appropriate numbered branches of this repo as needed. The branches are:
 - [0-initial-setup](https://github.com/udacity/fend-webpack-content/tree/0-initial-setup)
-- [1-install-webpack](https://github.com/udacity/fend-webpack-content/tree/1-install-webpack)
+- [1-install-webpack](https://github.com/udacity/fend-webpack-content/tree/1-install-webpack)  
 - [2-add-webpack-entry](https://github.com/udacity/fend-webpack-content/tree/2-add-webpack-entry)
 - [3-webpack-output-and-loaders](https://github.com/udacity/fend-webpack-content/tree/3-webpack-output-and-loaders)
 - [4-webpack-plugins](https://github.com/udacity/fend-webpack-content/tree/4-webpack-plugins)
